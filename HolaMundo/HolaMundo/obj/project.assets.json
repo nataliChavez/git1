@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scien\\Desktop\\git\\curso\\HolaMundo\\HolaMundo\\HolaMundo\\HolaMundo.csproj",
+      "projectUniqueName": "C:\\Users\\scien\\Desktop\\git\\curso\\HolaMundo\\HolaMundo\\HolaMundo.csproj",
       "projectName": "HolaMundo",
-      "projectPath": "C:\\Users\\scien\\Desktop\\git\\curso\\HolaMundo\\HolaMundo\\HolaMundo\\HolaMundo.csproj",
+      "projectPath": "C:\\Users\\scien\\Desktop\\git\\curso\\HolaMundo\\HolaMundo\\HolaMundo.csproj",
       "packagesPath": "C:\\Users\\scien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scien\\Desktop\\git\\curso\\HolaMundo\\HolaMundo\\HolaMundo\\obj\\",
+      "outputPath": "C:\\Users\\scien\\Desktop\\git\\curso\\HolaMundo\\HolaMundo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
